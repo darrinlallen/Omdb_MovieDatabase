@@ -6,4 +6,5 @@ data class Search(
     val Type: String,
     val Year: String,
     val imdbID: String
+
 )
